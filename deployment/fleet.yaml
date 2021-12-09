@@ -1,2 +1,2 @@
 dependsOn:
-- name: configmap
+- name: demo-dependson-configmap
