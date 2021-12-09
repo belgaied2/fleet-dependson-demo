@@ -1,2 +1,2 @@
 dependsOn:
-- configmap
+- name: configmap
