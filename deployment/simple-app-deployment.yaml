@@ -16,7 +16,7 @@ spec:
       containers:
       - name: simple-web-app
   
-        image: mhassine/simple-web-app:0.0.1
+        image: mhassine/simple-conf-app:0.0.1
         resources:
           limits:
             memory: "128Mi"
